@@ -1,0 +1,1 @@
+{"rnn_layers": 2, "rnn_size": 64, "rnn_bidirectional": true, "max_length": 20, "max_words": 10000, "dim_embeddings": 250, "word_level": false, "single_text": false, "name": "novel", "verbose": 1}
